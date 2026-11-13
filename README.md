@@ -6,3 +6,4 @@
  - [Лекция 5: Python Строки и списки](https://github.com/vvdRTM/Lec2026/blob/main/lec/Lec5.md)
  - [Лекция 6: Python Функции и коллекции](https://github.com/vvdRTM/Lec2026/blob/main/lec/Lec6.md)
  - [Лекция 7: Python Таблицы файлы и исключения](https://github.com/vvdRTM/Lec2026/blob/main/lec/Lec7.md)
+ - [Лекция 8: Python JSON, HTTP и популярные библиотеки](https://github.com/vvdRTM/Lec2026/blob/main/lec/lec8.md)
