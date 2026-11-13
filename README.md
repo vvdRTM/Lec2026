@@ -7,3 +7,4 @@
  - [Лекция 6: Python Функции и коллекции](https://github.com/vvdRTM/Lec2026/blob/main/lec/Lec6.md)
  - [Лекция 7: Python Таблицы файлы и исключения](https://github.com/vvdRTM/Lec2026/blob/main/lec/Lec7.md)
  - [Лекция 8: Python JSON, HTTP и популярные библиотеки](https://github.com/vvdRTM/Lec2026/blob/main/lec/lec8.md)
+ - [Вопросы](https://github.com/vvdRTM/Lec2026/blob/main/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BC%D0%B8%D0%BD%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E.md)
